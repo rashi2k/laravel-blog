@@ -2,7 +2,7 @@
 ## Installation
 pull the master branch.
 
--create mysql database update details in .env file.
+-create mysql database and  update details in .env file.
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -20,7 +20,7 @@ DB_PASSWORD=database password here
 - run the commnd php artisan migrate 
 - run the commnad php artisan serve 
 
-### admin login credentials
+### Admin login credentials
 -  username - admin@gmail.com
 -  password - 123456
 
