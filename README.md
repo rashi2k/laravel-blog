@@ -11,14 +11,14 @@ DB_DATABASE=blog
 DB_USERNAME=database username here
 DB_PASSWORD=database password here
 
-- run the command npm install
-- run the command npm run dev
+- Run the command npm install
+- Run the command npm run dev
 
-- run the command php artisan db:seed --class=PermissionTableSeeder 
-- run the command php artisan db:seed --class=CreateAdminUserSeeder 
-- run the command php artisan db:seed --class=CreateRegularRoleSeeder 
-- run the command php artisan migrate 
-- run the command php artisan serve 
+- Run the command php artisan db:seed --class=PermissionTableSeeder 
+- Run the command php artisan db:seed --class=CreateAdminUserSeeder 
+- Run the command php artisan db:seed --class=CreateRegularRoleSeeder 
+- Run the command php artisan migrate 
+- Run the command php artisan serve 
 
 ### Admin login credentials
 -  username - admin@gmail.com
@@ -28,4 +28,4 @@ DB_PASSWORD=database password here
 ### How to use
 - Log as admin
 - Update Regular User role permission with create/update/view/delete permissions for post and comment.
-- then Add new posts
+- Add new posts
