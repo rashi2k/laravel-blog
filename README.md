@@ -13,11 +13,11 @@ DB_PASSWORD=database password here
 
 - Run the command npm install
 - Run the command npm run dev
-
+- Run the command php artisan migrate 
 - Run the command php artisan db:seed --class=PermissionTableSeeder 
 - Run the command php artisan db:seed --class=CreateAdminUserSeeder 
 - Run the command php artisan db:seed --class=CreateRegularRoleSeeder 
-- Run the command php artisan migrate 
+
 - Run the command php artisan serve 
 
 ### Admin login credentials
