@@ -17,11 +17,11 @@ DB_PASSWORD=database password here
 - run the command php artisan db:seed --class=PermissionTableSeeder 
 - run the command php artisan db:seed --class=CreateAdminUserSeeder 
 - run the command php artisan db:seed --class=CreateRegularRoleSeeder 
--run the commnd php artisan migrate 
+- run the commnd php artisan migrate 
 - run the commnad php artisan serve 
 
 ### admin login credentials
-username - admin@gmail.com
-password - 123456
+-  username - admin@gmail.com
+-  password - 123456
 
 
