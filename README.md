@@ -25,3 +25,7 @@ DB_PASSWORD=database password here
 -  password - 123456
 
 
+### How to use
+- Log as admin
+- Update Regular User role permission with create/update/view/delete permissions for post and comment.
+- then Add new posts
