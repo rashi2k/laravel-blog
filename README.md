@@ -28,5 +28,6 @@ DB_PASSWORD=database password here
 
 ### How to use
 - Log as admin
-- Update Regular User role permission with create/update/view/delete permissions for post and comment.
+- Go to Manage Roles and Add permissions for comments and post for Regualr User role.
+- Register new users(These users will have Regular User Role by default)
 - Add new posts
