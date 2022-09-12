@@ -31,3 +31,5 @@ DB_PASSWORD=database password here
 - Go to Manage Roles and Add permissions for comments and post for Regualr User role.
 - Register new users(These users will have Regular User Role by default)
 - Add new posts
+- add new comment
+- newff
