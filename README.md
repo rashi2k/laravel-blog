@@ -32,4 +32,4 @@ DB_PASSWORD=database password here
 - Register new users(These users will have Regular User Role by default)
 - Add new posts
 - add new comment
-- new
+- newff
